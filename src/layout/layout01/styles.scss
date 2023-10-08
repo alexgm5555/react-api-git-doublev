@@ -1,0 +1,36 @@
+.layout-container {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  
+  .children-container {
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-around;
+
+    .panel-left {
+      color: white;
+      width: 55%;
+      min-height: 90vh;
+    }
+
+    .panel-right {
+      // background-color: darkolivegreen;
+      color: white;
+      flex-direction: column;
+      align-items: center;
+      width: 35%;
+      position: relative;
+    }
+  }
+  .header-container {
+    background-color: #1976d2;
+    color: white;
+    .header-bar {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+    }
+  }
+}
