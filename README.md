@@ -5,20 +5,20 @@ Este proyecto fue generado con [Create React App](https://github.com/facebook/cr
 ## Despliegue
 Para el despliegue de la applicación es necesario:
 1. Es recomendable tener haber desplegado el proyecto backEnd antes de continuar con los siguientes pasos.
-2. Clonar proyecto con el siguiente comando:
+2. Clonar proyecto con el siguiente comando:\
 ```git clone https://github.com/alexgm5555/react-api-git-doublev.git```
 3. Instalar dependencias 
 ```npm  install```
 4. El proyecto lleva el archivo de variables de entorno(.env), no se recomienda esto en producción, para este caso es más útil dejarlo en el repositorio (En caso de no encontrarlo solicitarlo).
-5. Si el proyecto backEnd no esta desplegado en el mismo equipo, recomendamos reemplazar la siguiente linea del archivo .env
-```REACT_APP_LOCAL_API="localhost:3019/api/users"```
-por la ip donde se desplegó el proyecto backend, como lo muestra el siguiente código:
-```REACT_APP_LOCAL_API="http://192.168.1.13:3019/api/users"```
-para obtener esta dirección abrir una consola y ejecutar el siguiente comando:
-```ipconfig``` windows 
-```ifconfig``` mac
-6. La versión de node que se utilizó para desarrollar este proyecto fue
-```v16.13.0```  Recomendamos hacer el despliegè con esa versión.
+5. Si el proyecto backEnd no esta desplegado en el mismo equipo, recomendamos reemplazar la siguiente linea del archivo .env\
+```REACT_APP_LOCAL_API="localhost:3019/api/users"```\
+por la ip donde se desplegó el proyecto backend, como lo muestra el siguiente código:\
+```REACT_APP_LOCAL_API="http://192.168.1.13:3019/api/users"```\
+para obtener esta dirección abrir una consola y ejecutar el siguiente comando:\
+```ipconfig``` windows \
+```ifconfig``` mac\
+6. La versión de node que se utilizó para desarrollar este proyecto fue\
+```v16.13.0```\  Recomendamos hacer el despliegè con esa versión.
 
 ## Requerimientos
 
