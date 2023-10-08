@@ -16,9 +16,9 @@ por la ip donde se desplegó el proyecto backend, como lo muestra el siguiente c
 ```REACT_APP_LOCAL_API="http://192.168.1.13:3019/api/users"```\
 para obtener esta dirección abrir una consola y ejecutar el siguiente comando:\
 ```ipconfig``` windows \
-```ifconfig``` mac \
+```ifconfig``` mac
 6. La versión de node que se utilizó para desarrollar este proyecto fue\
-```v16.13.0``` \  Recomendamos hacer el despliegè con esa versión.
+```v16.13.0```\  Recomendamos hacer el despliegè con esa versión.
 
 ## Requerimientos
 
