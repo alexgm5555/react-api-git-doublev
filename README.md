@@ -4,7 +4,8 @@ Este proyecto fue generado con [Create React App](https://github.com/facebook/cr
 
 ## Despliegue
 Para el despliegue de la applicación es necesario:
-1. Es recomendable tener haber desplegado el proyecto backEnd antes de continuar con los siguientes pasos.
+1. Es recomendable haber desplegado el proyecto backEnd antes de continuar con los siguientes pasos. \
+```https://github.com/alexgm5555/nest-api-rest-doublev.git```
 2. Clonar proyecto con el siguiente comando:\
 ```git clone https://github.com/alexgm5555/react-api-git-doublev.git```
 3. Instalar dependencias \
