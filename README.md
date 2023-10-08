@@ -28,7 +28,7 @@ REACT_APP_LOCAL_API="http://192.168.1.13:3019/api/users"
 para obtener esta dirección abrir una consola y ejecutar el siguiente comando:\
 ```ipconfig``` windows \
 ```ifconfig``` mac
-7. levantar el proyecto con el comando
+6. levantar el proyecto con el comando
 ```bash
 npm start
 ```
